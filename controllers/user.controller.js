@@ -1,4 +1,3 @@
-import { use } from "react";
 import User from "../models/user.schema.js";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
